@@ -8,49 +8,56 @@
   "phase": 3,
   "collegeName": "IITD",
   "baseUrl": "cs-iitd.vlabs.ac.in",
-  "introduction": "",
+  "introduction": "Welcome to Concrete Structures<br/>Laboratories are an important environment for students learning where students get hands-on training. In Civil Engineering, setting-up a real laboratory is challenging due to the high requirement of resources such as space and manpower, and high setup and maintenance cost. The Virtual Laboratory will allow the users to feel the environment which she/he will get in the real laboratories and enhance their teaching and learning experience.",
   "experiments": [
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Compressive strength test - cube test",
+      "short-name": "cube-test",
+      "repo": "https://github.com/virtual-labs/exp-cube-test-iitd",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Flexural strength test",
+      "short-name": "flexural-strength-test",
+      "repo": "https://github.com/virtual-labs/exp-flexural-strength-test-iitd",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Split tensile strength test",
+      "short-name": "tensile-strength-test",
+      "repo": "https://github.com/virtual-labs/exp-tensile-strength-test-iitd",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Rebound hammer test",
+      "short-name": "rebound-hammer-test",
+      "repo": "https://github.com/virtual-labs/exp-rebound-hammer-test-iitd",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Ultra-sonic pulse velocity test",
+      "short-name": "pulse-velocity-test",
+      "repo": "https://github.com/virtual-labs/exp-pulse-velocity-test-iitd",
       "tag": "v1.0.0",
       "deploy": true
     }    
   ],
   "targetAudience": {
-    "UG": ["Under Graduate students of "],
-    "PG": [
-      "Post Graduate students of ",
-      " Research Scholars of "
-    ]
+    "UG": ["Under Graduate students of Civil Engineering"],
+    "PG": ["Post Graduate students of Civil Engineering"]
   },
-  "objective": "",
+  "objective": "Reinforced concrete analysis and design is one of the important courses in Civil Engineering. In this laboratory on concrete structures, students will have the opportunity:<br/><br/>- to recall the fundamentals of reinforced concrete analysis and design<br/><br/>- to understand the theory behind an experimental procedure<br/><br/>- to apply the concepts learnt to perform experiments<br/><br/>- to analyze and present the output from the experiements",
   "courseAlignment": {
-    "description": "",
+    "description": "The lab contents are chosen such that it covers the syllabi of Concrete Structures Lab",
     "universities": [
-      ""
+      "VIT Chennai Tamil Nadu",
+      "Thapar Institute of Engineering and Technology Punjab",
+      "University of Delhi Delhi",
+      "Dr. B.R. Ambedkar National Institute of Technology Punjab"
     ]
   }
 }
