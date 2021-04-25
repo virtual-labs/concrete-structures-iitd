@@ -14,37 +14,37 @@
       "name": "Compressive strength test - cube test",
       "short-name": "cube-test",
       "repo": "https://github.com/virtual-labs/exp-cube-test-iitd",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Flexural strength test",
       "short-name": "flexural-strength-test",
       "repo": "https://github.com/virtual-labs/exp-flexural-strength-test-iitd",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Split tensile strength test",
       "short-name": "tensile-strength-test",
       "repo": "https://github.com/virtual-labs/exp-tensile-strength-test-iitd",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Rebound hammer test",
       "short-name": "rebound-hammer-test",
       "repo": "https://github.com/virtual-labs/exp-rebound-hammer-test-iitd",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Ultra-sonic pulse velocity test",
       "short-name": "pulse-velocity-test",
       "repo": "https://github.com/virtual-labs/exp-pulse-velocity-test-iitd",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
-    }    
+    }
   ],
   "targetAudience": {
     "UG": ["Under Graduate students of Civil Engineering"],
@@ -59,5 +59,58 @@
       "University of Delhi Delhi",
       "Dr. B.R. Ambedkar National Institute of Technology Punjab"
     ]
-  }
+  },
+  "exp_name": "Ultra-sonic pulse velocity test",
+  "exp_short_name": "pulse-velocity-test",
+  "production": true,
+  "current_item": {
+    "item": "feedback",
+    "target": "feedback.html",
+    "label": "Feedback"
+  },
+  "menu": [
+    {
+      "item": "aim",
+      "target": "index.html",
+      "source": "aim.md",
+      "label": "Aim"
+    },
+    {
+      "item": "theory",
+      "target": "theory.html",
+      "source": "theory.md",
+      "label": "Theory"
+    },
+    {
+      "item": "pretest",
+      "target": "pretest.html",
+      "source": "pretest.js",
+      "label": "Pre Test"
+    },
+    {
+      "item": "procedure",
+      "target": "procedure.html",
+      "source": "procedure.md",
+      "label": "Procedure"
+    },
+    {
+      "item": "simulation",
+      "target": "simulation.html",
+      "label": "Simulation"
+    },
+    {
+      "item": "posttest",
+      "target": "posttest.html",
+      "source": "posttest.js",
+      "label": "Post Test"
+    },
+    {
+      "item": "references",
+      "target": "references.html",
+      "source": "references.md",
+      "label": "References"
+    },
+    { "item": "feedback", "target": "feedback.html", "label": "Feedback" }
+  ],
+  "version": "v1.0.0"
 }
