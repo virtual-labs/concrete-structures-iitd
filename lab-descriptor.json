@@ -67,8 +67,8 @@
       "Dr. B.R. Ambedkar National Institute of Technology Punjab"
     ]
   },
-  "exp_name": "Ultra-sonic pulse velocity test",
-  "exp_short_name": "pulse-velocity-test",
+  "exp_name": "Static modulus of elasticity in compression",
+  "exp_short_name": "elasticity-in-compression",
   "production": true,
   "current_item": {
     "item": "feedback",
@@ -119,5 +119,5 @@
     },
     { "item": "feedback", "target": "feedback.html", "label": "Feedback" }
   ],
-  "version": "v1.2.0"
+  "version": "v1.3.0"
 }
