@@ -44,6 +44,13 @@
       "repo": "https://github.com/virtual-labs/exp-pulse-velocity-test-iitd",
       "tag": "v1.0.1",
       "deploy": true
+    },
+    {
+      "name": "Static modulus of elasticity in compression",
+      "short-name": "elasticity-in-compression",
+      "repo": "https://github.com/virtual-labs/exp-elasticity-in-compression-iitd",
+      "tag": "v1.0.1",
+      "deploy": true
     }
   ],
   "targetAudience": {
