@@ -59,12 +59,9 @@
   },
   "objective": "Reinforced concrete analysis and design is one of the important courses in Civil Engineering. In this laboratory on concrete structures, students will have the opportunity:<br/><br/>- to recall the fundamentals of reinforced concrete analysis and design<br/><br/>- to understand the theory behind an experimental procedure<br/><br/>- to apply the concepts learnt to perform experiments<br/><br/>- to analyze and present the output from the experiements",
   "courseAlignment": {
-    "description": "The lab contents are chosen such that it covers the syllabi of Concrete Structures Lab",
+    "description": "",
     "universities": [
-      "VIT Chennai Tamil Nadu",
-      "Thapar Institute of Engineering and Technology Punjab",
-      "University of Delhi Delhi",
-      "Dr. B.R. Ambedkar National Institute of Technology Punjab"
+      ""
     ]
   },
   "exp_name": "Static modulus of elasticity in compression",
