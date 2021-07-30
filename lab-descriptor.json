@@ -59,8 +59,8 @@
   },
   "objective": "Reinforced concrete analysis and design is one of the important courses in Civil Engineering. In this laboratory on concrete structures, students will have the opportunity:<br/><br/>- to recall the fundamentals of reinforced concrete analysis and design<br/><br/>- to understand the theory behind an experimental procedure<br/><br/>- to apply the concepts learnt to perform experiments<br/><br/>- to analyze and present the output from the experiements",
   "courseAlignment": {
-    "description": "The lab content is chosen such that it covers the syllabi of Concrete Structures Laboratory.",
-    "universities": []
+    "description": "",
+    "universities": ["The lab content is chosen such that it covers the syllabi of Concrete Structures Laboratory."]
   },
   "exp_name": "Static modulus of elasticity in compression",
   "exp_short_name": "elasticity-in-compression",
