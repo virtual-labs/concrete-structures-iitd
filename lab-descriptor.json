@@ -14,42 +14,42 @@
       "name": "Compressive strength test - cube test",
       "short-name": "cube-test",
       "repo": "https://github.com/virtual-labs/exp-cube-test-iitd",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Flexural strength test",
       "short-name": "flexural-strength-test",
       "repo": "https://github.com/virtual-labs/exp-flexural-strength-test-iitd",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Split tensile strength test",
       "short-name": "tensile-strength-test",
       "repo": "https://github.com/virtual-labs/exp-tensile-strength-test-iitd",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Rebound hammer test",
       "short-name": "rebound-hammer-test",
       "repo": "https://github.com/virtual-labs/exp-rebound-hammer-test-iitd",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Ultra-sonic pulse velocity test",
       "short-name": "pulse-velocity-test",
       "repo": "https://github.com/virtual-labs/exp-pulse-velocity-test-iitd",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Static modulus of elasticity in compression",
       "short-name": "elasticity-in-compression",
       "repo": "https://github.com/virtual-labs/exp-elasticity-in-compression-iitd",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     }
   ],
