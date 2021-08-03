@@ -11,42 +11,42 @@
   "introduction": "Welcome to Concrete Structures<br/>Laboratories are an important environment for students learning where students get hands-on training. In Civil Engineering, setting-up a real laboratory is challenging due to the high requirement of resources such as space and manpower, and high setup and maintenance cost. The Virtual Laboratory will allow the users to feel the environment which she/he will get in the real laboratories and enhance their teaching and learning experience.",
   "experiments": [
     {
-      "name": "Compressive strength test - cube test",
+      "name": "Compressive Strength Test of Concrete (Cube)",
       "short-name": "cube-test",
       "repo": "https://github.com/virtual-labs/exp-cube-test-iitd",
       "tag": "v1.0.2",
       "deploy": true
     },
     {
-      "name": "Flexural strength test",
+      "name": "Flexural Strength Test of Concrete (Beam)",
       "short-name": "flexural-strength-test",
       "repo": "https://github.com/virtual-labs/exp-flexural-strength-test-iitd",
       "tag": "v1.0.3",
       "deploy": true
     },
     {
-      "name": "Split tensile strength test",
+      "name": "Split Tensile Strength Test of Concrete (Cylinder)",
       "short-name": "tensile-strength-test",
       "repo": "https://github.com/virtual-labs/exp-tensile-strength-test-iitd",
       "tag": "v1.0.2",
       "deploy": true
     },
     {
-      "name": "Rebound hammer test",
+      "name": "Rebound Hammer Test of Concrete",
       "short-name": "rebound-hammer-test",
       "repo": "https://github.com/virtual-labs/exp-rebound-hammer-test-iitd",
       "tag": "v1.0.3",
       "deploy": true
     },
     {
-      "name": "Ultra-sonic pulse velocity test",
+      "name": "Ultrasonic Pulse Testing of Concrete",
       "short-name": "pulse-velocity-test",
       "repo": "https://github.com/virtual-labs/exp-pulse-velocity-test-iitd",
       "tag": "v1.0.3",
       "deploy": true
     },
     {
-      "name": "Static modulus of elasticity in compression",
+      "name": "Static Modulus of Elasticity of Concrete in compression",
       "short-name": "elasticity-in-compression",
       "repo": "https://github.com/virtual-labs/exp-elasticity-in-compression-iitd",
       "tag": "v1.0.2",
