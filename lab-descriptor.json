@@ -21,7 +21,7 @@
       "name": "Flexural strength test",
       "short-name": "flexural-strength-test",
       "repo": "https://github.com/virtual-labs/exp-flexural-strength-test-iitd",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
@@ -35,14 +35,14 @@
       "name": "Rebound hammer test",
       "short-name": "rebound-hammer-test",
       "repo": "https://github.com/virtual-labs/exp-rebound-hammer-test-iitd",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
       "name": "Ultra-sonic pulse velocity test",
       "short-name": "pulse-velocity-test",
       "repo": "https://github.com/virtual-labs/exp-pulse-velocity-test-iitd",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
