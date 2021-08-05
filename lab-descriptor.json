@@ -46,10 +46,10 @@
       "deploy": true
     },
     {
-      "name": "Static Modulus of Elasticity of Concrete in compression",
+      "name": "Static Modulus of Elasticity of Concrete in Compression",
       "short-name": "elasticity-in-compression",
       "repo": "https://github.com/virtual-labs/exp-elasticity-in-compression-iitd",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": true
     }
   ],
