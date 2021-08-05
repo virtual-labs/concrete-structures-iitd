@@ -8,7 +8,7 @@
   "phase": 3,
   "collegeName": "IITD",
   "baseUrl": "cs-iitd.vlabs.ac.in",
-  "introduction": "Welcome to Concrete Structures<br/>Laboratories are an important environment for students learning where students get hands-on training. In Civil Engineering, setting-up a real laboratory is challenging due to the high requirement of resources such as space and manpower, and high setup and maintenance cost. The Virtual Laboratory will allow the users to feel the environment which she/he will get in the real laboratories and enhance their teaching and learning experience.",
+  "introduction": "Welcome to Concrete Structures Lab<br/>Laboratories are an important environment for students learning where students get hands-on training. In Civil Engineering, setting-up a real laboratory is challenging due to the high requirement of resources such as space and manpower, and high setup and maintenance cost. The Virtual Laboratory will allow the users to feel the environment which she/he will get in the real laboratories and enhance their teaching and learning experience.",
   "experiments": [
     {
       "name": "Compressive Strength Test of Concrete (Cube)",
