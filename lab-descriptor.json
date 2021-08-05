@@ -64,7 +64,7 @@
       "The lab content is chosen such that it covers the syllabi of Concrete Structures Laboratory."
     ]
   },
-  "exp_name": "Static Modulus of Elasticity of Concrete in compression",
+  "exp_name": "Static Modulus of Elasticity of Concrete in Compression",
   "exp_short_name": "elasticity-in-compression",
   "production": true,
   "current_item": {
@@ -116,5 +116,5 @@
     },
     { "item": "feedback", "target": "feedback.html", "label": "Feedback" }
   ],
-  "version": "v1.9.0"
+  "version": "v1.10.0"
 }
