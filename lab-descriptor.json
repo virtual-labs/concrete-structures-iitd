@@ -53,6 +53,34 @@
       "repo": "https://github.com/virtual-labs/exp-elasticity-in-compression-iitd",
       "tag": "v1.0.3",
       "deploy": true
+    },
+    {
+      "name": "Tensile Test on Reinforcement",
+      "short-name": "tensile-reinforcement",
+      "repo": "https://github.com/virtual-labs/exp-tensile-test-iitd",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Bend and Re-bend Test",
+      "short-name": "bend-rebend",
+      "repo": "https://github.com/virtual-labs/exp-re-bend-test-iitd",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Behavior of Beam in Flexure",
+      "short-name": "behavior-beam-flexure",
+      "repo": "https://github.com/virtual-labs/exp-beam-in-flexure-iitd",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Behavior of Beam in Shear",
+      "short-name": "behavior-beam-shear",
+      "repo": "https://github.com/virtual-labs/exp-beam-in-shear-iitd",
+      "tag": "v1.0.0",
+      "deploy": true
     }
   ],
   "targetAudience": {
